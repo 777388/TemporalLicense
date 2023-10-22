@@ -1,0 +1,4 @@
+# TemporalLicense
+Divination, Random Chance, Xor and Timing used for licensing
+
+This allows multiple licenses to be printed and mapped out to allow created works to be in a constant state of flux. If you find yourself stuck with anothers creation all you simply need to do is create another thing, which could be as simple as a rhyme or a smiley face drawn in inspiration of the work, and it will create a cloned pair license of the creation, as each license is in a cloned pairing state.
